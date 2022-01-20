@@ -1,0 +1,8 @@
+@media only screen and (max-width: 992px){
+ .first-section-right-image img{
+     width: 100%;
+ }
+ .fourth-section-right-image{
+     margin-top: 20px;
+ }
+}
