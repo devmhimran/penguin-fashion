@@ -5,4 +5,7 @@
  .fourth-section-right-image{
      margin-top: 20px;
  }
+ .navbar-brand img{
+     width: 100px;
+ }
 }
